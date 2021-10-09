@@ -1,0 +1,120 @@
+{
+    "frames": {
+        "tile000.png": {
+            "frame": {
+                "x": 770,
+                "y": 984,
+                "w": 761,
+                "h": 491
+            },
+            "spriteSourceSize": {
+                "x": 187,
+                "y": 151,
+                "w": 1147,
+                "h": 754
+            },
+            "sourceSize": {
+                "w": 1147,
+                "h": 754
+            }
+        },
+        "tile001.png": {
+            "frame": {
+                "x": 0,
+                "y": 984,
+                "w": 769,
+                "h": 491
+            },
+            "spriteSourceSize": {
+                "x": 207,
+                "y": 151,
+                "w": 1147,
+                "h": 754
+            },
+            "sourceSize": {
+                "w": 1147,
+                "h": 754
+            }
+        },
+        "tile002.png": {
+            "frame": {
+                "x": 774,
+                "y": 492,
+                "w": 761,
+                "h": 491
+            },
+            "spriteSourceSize": {
+                "x": 242,
+                "y": 151,
+                "w": 1147,
+                "h": 754
+            },
+            "sourceSize": {
+                "w": 1147,
+                "h": 754
+            }
+        },
+        "tile003.png": {
+            "frame": {
+                "x": 0,
+                "y": 492,
+                "w": 773,
+                "h": 491
+            },
+            "spriteSourceSize": {
+                "x": 262,
+                "y": 151,
+                "w": 1147,
+                "h": 754
+            },
+            "sourceSize": {
+                "w": 1147,
+                "h": 754
+            }
+        },
+        "tile004.png": {
+            "frame": {
+                "x": 774,
+                "y": 0,
+                "w": 761,
+                "h": 491
+            },
+            "spriteSourceSize": {
+                "x": 294,
+                "y": 151,
+                "w": 1147,
+                "h": 754
+            },
+            "sourceSize": {
+                "w": 1147,
+                "h": 754
+            }
+        },
+        "tile005.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 773,
+                "h": 491
+            },
+            "spriteSourceSize": {
+                "x": 314,
+                "y": 151,
+                "w": 1147,
+                "h": 754
+            },
+            "sourceSize": {
+                "w": 1147,
+                "h": 754
+            }
+        }
+    },
+    "meta": {
+        "image": "fish.png",
+        "size": {
+            "w": 1536,
+            "h": 1476
+        },
+        "scale": "1"
+    }
+}
