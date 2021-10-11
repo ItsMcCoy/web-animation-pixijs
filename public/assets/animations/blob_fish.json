@@ -1,0 +1,120 @@
+{
+    "frames": {
+        "Blob fish01.png": {
+            "frame": {
+                "x": 0,
+                "y": 984,
+                "w": 761,
+                "h": 491
+            },
+            "spriteSourceSize": {
+                "x": 175,
+                "y": 170,
+                "w": 1007,
+                "h": 754
+            },
+            "sourceSize": {
+                "w": 1007,
+                "h": 754
+            }
+        },
+        "Blob fish02.png": {
+            "frame": {
+                "x": 0,
+                "y": 492,
+                "w": 769,
+                "h": 491
+            },
+            "spriteSourceSize": {
+                "x": 175,
+                "y": 170,
+                "w": 1007,
+                "h": 754
+            },
+            "sourceSize": {
+                "w": 1007,
+                "h": 754
+            }
+        },
+        "Blob fish03.png": {
+            "frame": {
+                "x": 762,
+                "y": 984,
+                "w": 761,
+                "h": 491
+            },
+            "spriteSourceSize": {
+                "x": 175,
+                "y": 170,
+                "w": 1007,
+                "h": 754
+            },
+            "sourceSize": {
+                "w": 1007,
+                "h": 754
+            }
+        },
+        "Blob fish04.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 773,
+                "h": 491
+            },
+            "spriteSourceSize": {
+                "x": 175,
+                "y": 170,
+                "w": 1007,
+                "h": 754
+            },
+            "sourceSize": {
+                "w": 1007,
+                "h": 754
+            }
+        },
+        "Blob fish05.png": {
+            "frame": {
+                "x": 762,
+                "y": 984,
+                "w": 761,
+                "h": 491
+            },
+            "spriteSourceSize": {
+                "x": 175,
+                "y": 170,
+                "w": 1007,
+                "h": 754
+            },
+            "sourceSize": {
+                "w": 1007,
+                "h": 754
+            }
+        },
+        "Blob fish06.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 773,
+                "h": 491
+            },
+            "spriteSourceSize": {
+                "x": 175,
+                "y": 170,
+                "w": 1007,
+                "h": 754
+            },
+            "sourceSize": {
+                "w": 1007,
+                "h": 754
+            }
+        }
+    },
+    "meta": {
+        "image": "blob_fish.png",
+        "size": {
+            "w": 1524,
+            "h": 1476
+        },
+        "scale": "1"
+    }
+}
